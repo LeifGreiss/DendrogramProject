@@ -1,0 +1,46 @@
+id,value
+Book,
+Book.Art&Photography,
+Book.Art&Photography.HowToCrafts, 12
+Book.Art&Photography.CoffeeTable,
+Book.Art&Photography.CoffeeTable.Photography, 98
+Book.Children,
+Book.Children.BabyBooks, 12
+Book.Children.Age3to5,
+Book.Children.Age3to5.1stReaders, 19
+Book.Children.Age3to5.ABCs, 45
+Book.Children.Age3to5.TolstoyForTots, 14
+Book.Children.Age6to8, 69
+Book.Children.PreTeen&Teen, 57
+Book.Computers&Internet,
+Book.Computers&Internet.Troubleshooting, 29
+Book.Mystery,
+Book.Mystery.Crime,
+Book.Mystery.Crime.Fiction, 82
+Book.Mystery.Crime.TrueCrime, 18
+Book.Mystery.Spy,
+Book.Mystery.Spy.Other, 74
+Book.Mystery.Spy.TrueSpy, 96
+Book.Nonfiction,
+Book.Nonfiction.Health,
+Book.Nonfiction.Health.Diet, 21
+Book.Nonfiction.Health.Fitness, 79
+Book.Nonfiction.History,
+Book.Magazine,
+Book.Magazine.Fashion,
+Book.Magazine.Fashion.Women, 91
+Book.Magazine.Fashion.Men, 87
+Book.Magazine.Home,
+Book.Magazine.Other,
+Book.Magazine.Sports,
+Book.Magazine.Sports.SportsIllustrated, 47
+Book.Magazine.Sports.MMA, 97
+Book.Romance,
+Book.Romance.BreakUp,
+Book.Romance.BreakUp.Teen, 14
+Book.Romance.BreakUp.YoungAdult, 32
+Book.Romance.BreakUp.Audiobooks, 80
+Book.Romance.MakeUp, 40
+Book.ScienceFiction&Fantasy,
+Book.ScienceFiction&Fantasy.Apocalyptic, 7
+Book.ScienceFiction&Fantasy.Comics, 44
